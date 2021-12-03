@@ -19,7 +19,7 @@ I trained 3 separate models - one RandomForest, one Convolutional Neural Net, an
 ## Tools 
 
 Data Manipulation: Numpy and Pandas   
-Model Training: Scikit-Learn, Tensorflow/Keras, MobileNetV2
+Model Training: Scikit-Learn, Tensorflow/Keras, MobileNetV2   
 Visualization: Matplotlib, Seaborn
 
 ## Communication
