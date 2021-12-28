@@ -1,4 +1,4 @@
-# Protecting Colorado Wildlife with Computer Vision : Using CNNs to Reduce Human/Animal Interactions
+# Protecting Colorado Wildlife with Image Recognition : Using CNNs to Reduce Human/Animal Interactions
 
 ## Abstract
 
